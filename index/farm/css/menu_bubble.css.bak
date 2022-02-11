@@ -129,7 +129,7 @@ body,
 .menu {
 	position: relative;
 	z-index: 1000;
-	padding: 3em 1em 0;
+	padding: 0em 1em 0;
 }
 
 .menu,
@@ -149,14 +149,14 @@ body,
 }
 
 .icon-list i {
-	font-size: 1.5em;
+	font-size: 0.4em;
 	vertical-align: middle;
 	color: #282a35;
 }
 
 .icon-list a span {
 	margin-left: 10px;
-	font-size: 0.85em;
+	font-size: 0.80em;
 	font-weight: 700;
 	vertical-align: middle;
 }

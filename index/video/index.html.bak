@@ -84,6 +84,10 @@ background-color: 000;
 						<a href="../../index/snow/index.html"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
 						<a href="../../index/suidao/index.html"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
 						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						
 					</div>
 				</nav>
 				<button class="close-button" id="close-button">Close Menu</button>
@@ -303,19 +307,19 @@ background-color: 000;
 <div class="fish" style="position:absolute; width:50; height:50; z-index:7; left: 0px; bottom: -3px;backgroud-color:000;">
 <table>
 	<tr>
-		<td><a href="http://my.2345.ltd/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
+		<td><a href="http://my.2345.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
 		<td width="20">&nbsp;</td>
-		<td><a href="http://cloud.2345.ltd/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
+		<td><a href="http://cloud.2345.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="40" height="50" border="0" alt=""></a></td>
 		<td width="1050">&nbsp;</td>
-		<td><a href="http://wx.qq.com/?lightbox[iframe]=true&lightbox[width]=800&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://wx.qq.com/" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="10">&nbsp;</td>
-		<td><a href="http://www.360.cn/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://www.360.cn" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="7">&nbsp;</td>
-		<td><a href="http://odj.cc/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="6">&nbsp;</td>
-		<td><a href="http://odj.cc/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		<td width="4">&nbsp;</td>
-		<td><a href="http://odj.cc/?lightbox[iframe]=true&lightbox[width]=1200&lightbox[height]=540" class="lightbox"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
+		<td><a href="http://odj.cc" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/0bb5e4aec8d0bdd1a4ebcda03491b9b8a3115e28/desktop_computer/space.gif" width="15" height="50" border="0" alt=""></a></td>
 		
 			
 	</tr>

@@ -60,7 +60,7 @@ body,
 	text-indent: 2.5em;
 	font-size: 1.5em;
 	color: transparent;
-	background: #333333
+	background: #ffffff;
 }
 
 .menu-button::before {
@@ -129,7 +129,7 @@ body,
 .menu {
 	position: relative;
 	z-index: 1000;
-	padding: 3em 1em 0;
+	padding: 2em 1em 0;
 }
 
 .menu,

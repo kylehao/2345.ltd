@@ -85,6 +85,10 @@ background-color: 000;
 						<a href="../../index/snow/index.html"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
 						<a href="../../index/suidao/index.html"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
 						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						
 					</div>
 				</nav>
 				<button class="close-button" id="close-button">Close Menu</button>
@@ -341,7 +345,7 @@ background-color: 000;
 	
 <script src="js/three.min.js"></script>
 <main>
-    <div class="content">
+    <div class="content" style="z-index:1;">
         <!-- The canvas where ThreeJs renders the WebGL -->
         <canvas id="scene"></canvas>
     </div>

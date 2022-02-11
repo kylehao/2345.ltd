@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-        <title>MuiPlayer视频播放器插件 - 站长素材</title>
+        <title>MuiPlayer视频播放器插件</title>
         <link rel="stylesheet" href="./mui-player/dist/mui-player.min.css">
         <link rel="stylesheet" type="text/css" href="css/normalize1.css" />
 		<link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -88,6 +88,10 @@ background-color: 000;
 						<a href="../../index/snow/index.html"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
 						<a href="../../index/suidao/index.html"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
 						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						
 					</div>
 				</nav>
 				<button class="close-button" id="close-button">Close Menu</button>

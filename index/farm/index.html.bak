@@ -46,7 +46,7 @@
 
 <body style="zoom: 1;" >
 
-<div class="container" style="position:absolute; width:100%; height:100%; z-index:1; left: 0px; top: 0px;backgroud-color:000;">
+<div  style="position:absolute; width:100%; height:100%; z-index:1; left: 0px; top: 0px;backgroud-color:000;">
 			<div class="menu-wrap">
 				<nav class="menu">
 					<div class="icon-list">
@@ -59,6 +59,10 @@
 						<a href="../../index/snow/index.html"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
 						<a href="../../index/suidao/index.html"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
 						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						
 					</div>
 				</nav>
 				<button class="close-button" id="close-button">Close Menu</button>
@@ -90,7 +94,7 @@
 			<li class="nav03"><a href="http://www.44444.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/a761833bc25e3e2b22b5fb6fa046991d37a72320/farm/btn3.jpg" alt="德云社"></a></li>
 		        <li class="nav04"><a href="http://660000.xyz" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/40cbfc6933c0f4e83bb618f55c706dbf0017c7e2/farm/btn8.jpg" alt="美图"></a></li>
 			<li class="nav05"><a href="http://cloud.2345.ltd" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/bfc19e4c85f27c8c0c4d3302e01fc82294cffb66/farm/btn9.jpg" alt="网盘"></a></li>
-			<li class="nav06"><a href="http://www.free163.com" target="_blank"><img src="https://gitea.com/kylehao/44444.org.cn/raw/commit/6d7ba7d4bccfc0a2de48617ce0e857dc06a5f7f4/images/btn10.jpg" alt="听松阁"></a></li>
+			<li class="nav06"><a href="http://www.free163.com" target="_blank"><img src="https://code.aliyun.com/free163/publiclib/raw/89bd675d7d6860fcd41b823bbc9283ae85184a4a/farm/btn10.jpg" alt="听松阁"></a></li>
 		</ul>
 	</nav>
 </div>

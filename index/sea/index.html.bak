@@ -117,6 +117,10 @@ background-color: 000;
 						<a href="../../index/snow/index.html"><i class="fa fa-fw fa-envelope-o"></i><span>唯美雪花飘落特效</span></a>
 						<a href="../../index/suidao/index.html"><i class="fa fa-fw fa-comment-o"></i><span>无尽隧道穿梭特效</span></a>
 						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>响应式视频特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>哆啦A梦动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>蝴蝶飞舞动画特效</span></a>
+						<a href="../../index/video/index.html"><i class="fa fa-fw fa-bar-chart-o"></i><span>圆形响应式导航</span></a>
+						
 					</div>
 				</nav>
 				<button class="close-button" id="close-button">Close Menu</button>
@@ -325,7 +329,23 @@ background-color: 000;
 
 
 
+<!-- 动态图 -->
+<div class="fish" style="position:absolute; width:280px; height:175px; z-index:95; left: 519px; top: 140px;backgroud-color:000;">
+<img src="https://code.aliyun.com/free163/publiclib/raw/afb484c8e07676ad23d090d07a7ffb073b65499b/desktop_img/haiou.gif" width="50" height="35" border="0" alt="">
+</div>
+<div class="fish" style="position:absolute; width:280px; height:175px; z-index:95; left: 679px; top: 180px;backgroud-color:000;">
+<img src="https://code.aliyun.com/free163/publiclib/raw/afb484c8e07676ad23d090d07a7ffb073b65499b/desktop_img/haiou.gif" width="80" height="55" border="0" alt="">
+</div>
+<div class="fish" style="position:absolute; width:280px; height:175px; z-index:95; left: 779px; top: 80px;backgroud-color:000;">
+<img src="https://code.aliyun.com/free163/publiclib/raw/afb484c8e07676ad23d090d07a7ffb073b65499b/desktop_img/haiou.gif" width="100" height="75" border="0" alt="">
+</div>
 
+<div class="fish" style="position:absolute; width:280px; height:175px; z-index:95; left: 530px; bottom: 150px;backgroud-color:000;">
+<img src="https://code.aliyun.com/free163/publiclib/raw/afb484c8e07676ad23d090d07a7ffb073b65499b/desktop_img/ship.gif" width="213" height="100" border="0" alt="">
+</div>
+<div class="fish" style="position:absolute; width:280px; height:175px; z-index:96; left: 910px; bottom: 175px;backgroud-color:000;">
+<img src="https://code.aliyun.com/free163/publiclib/raw/afb484c8e07676ad23d090d07a7ffb073b65499b/desktop_img/ship2.gif" width="200" height="80" border="0" alt="">
+</div>
 
 <!-- 底部和按钮 -->
 <div class="fish" style="position:absolute; width:1365; height:39; z-index:6; left: 0px; bottom: -3px;backgroud-color:000;">
