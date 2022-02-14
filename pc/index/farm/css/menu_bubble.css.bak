@@ -129,7 +129,7 @@ body,
 .menu {
 	position: relative;
 	z-index: 1000;
-	padding: 0em 1em 0;
+	padding: 2.5em 1em 0;
 }
 
 .menu,
@@ -145,7 +145,7 @@ body,
 
 .icon-list a {
 	display: block;
-	padding: 0.8em;
+	padding: 0.5em;
 }
 
 .icon-list i {
@@ -156,7 +156,7 @@ body,
 
 .icon-list a span {
 	margin-left: 10px;
-	font-size: 0.80em;
+	font-size: 0.60em;
 	font-weight: 700;
 	vertical-align: middle;
 }
