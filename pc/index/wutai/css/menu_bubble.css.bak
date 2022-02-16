@@ -52,7 +52,7 @@ body,
 .menu-button {
 	position: fixed;
 	z-index: 1000;
-	margin: 4em;
+	margin: 1em;
 	left: 0.5em;
 	padding: 0;
 	width: 2.5em;
