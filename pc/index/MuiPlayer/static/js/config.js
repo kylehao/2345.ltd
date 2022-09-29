@@ -1,7 +1,7 @@
 var playerConfig = {
     container:'#mui-player',
     title:'Your Title',
-    src:'https://muiplayer.oss-cn-shanghai.aliyuncs.com/static/media/media.mp4',
+    src:'https://jihulab.com/free163/wondows1-2345.ltd/-/raw/b7ecd4659bd086b95400a94f7f327e9bc9afa1ce/pc/index/MuiPlayer/movie/media.mp4',
     poster:'https://muiplayer.oss-cn-shanghai.aliyuncs.com/static/image/poster.jpg',
     videoAttribute:[
         {attrKey:'webkit-playsinline',attrValue:''},
